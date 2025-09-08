@@ -73,3 +73,169 @@ The dashboard typically includes:
 Created by **[Your Name]**  
 📧 Contact: [Your Email]  
 🔗 LinkedIn: [Your LinkedIn Profile]
+
+
+
+# 🍕 Pizza Sales Orders Dashboard
+
+## 📖 About
+The **Pizza Sales Orders Dashboard** is designed to analyze the sales performance of a pizza business.  
+It consolidates data from multiple orders and provides a detailed view of **customer preferences, revenue generation, and product performance**.  
+The dashboard helps managers, analysts, and stakeholders monitor key sales KPIs and make **data-driven business decisions**.  
+
+---
+
+## ❓ Problem Statement
+The pizza outlet faced challenges such as:
+- Lack of real-time visibility into **sales performance**.
+- Difficulty in identifying **top-performing vs underperforming pizzas**.
+- No clear insights into **peak order times** (hour, weekday, month).
+- Limited ability to analyze **customer demand trends** (size, category, toppings).
+- Manual effort required for **tracking revenue growth**.
+
+➡️ These challenges led to **inefficient decision-making** and **missed opportunities** to boost profitability.  
+
+---
+
+## ✅ Solution
+The dashboard provides an **automated, interactive visualization** that allows stakeholders to:
+- Monitor **total sales, revenue, and AOV** in real time.
+- Identify **bestselling and least-selling pizzas** by revenue, quantity, and orders.
+- Track sales by **time of day, weekday, and month** to understand demand cycles.
+- Compare performance across **pizza categories** (Classic, Supreme, Veggie, Chicken, etc.).
+- Support **inventory and marketing decisions** with actionable insights.  
+
+---
+
+## 📊 Visualizations
+The dashboard includes:
+- **KPI Cards** → Total Revenue, Total Orders, Average Order Value, Total Pizzas Sold.  
+- **Top & Bottom 5 Pizzas** → Horizontal bar charts ranking pizzas by revenue/orders.  
+- **Sales Trend Over Time** → Line chart showing daily/weekly/monthly revenue.  
+- **Sales by Hour of Day** → Heatmap or bar chart showing peak order times.  
+- **Sales by Weekday/Month** → Identifies busiest days and seasonal patterns.  
+- **Category Breakdown** → Pie/Donut chart showing revenue share by pizza category.  
+- **Size Analysis** → Compares revenue contribution by pizza size (S, M, L, XL).  
+
+---
+
+## 📐 Key Metrics (KPIs)
+- **Total Revenue** = Sum of all sales made.  
+- **Total Orders** = Count of all completed transactions.  
+- **Total Pizzas Sold** = Quantity of pizzas ordered.  
+- **Average Order Value (AOV)** =  
+
+  \[
+  \text{AOV} = \frac{\text{Total Revenue}}{\text{Total Orders}}
+  \]  
+
+- **Top-Selling Pizza** = Pizza with the highest revenue.  
+- **Least-Selling Pizza** = Pizza with the lowest revenue.  
+- **Category Contribution %** = Share of each pizza category to total revenue.  
+- **Peak Order Time** = Hour/day with the highest sales volume.  
+- **Revenue by Size** = Contribution of Small/Medium/Large/XL pizzas to total revenue.  
+
+---
+
+## 🔍 Insights & Explanation
+- Highlights **most popular pizzas** → helps in **inventory planning**.  
+- **Time-based analysis** shows peak hours (e.g., evenings, weekends) → supports **staffing & promotions**.  
+- **Category breakdown** reveals customer preferences (Chicken vs Veggie, etc.).  
+- **Size analysis** helps in **pricing & upselling opportunities**.  
+- Identifying **underperforming pizzas** allows the business to **revise, rebrand, or discontinue** them.  
+
+---
+
+## 📂 File Included
+- `Pizza_sales_orders.twbx` → Tableau packaged workbook.
+
+---
+
+## 🚀 How to Use
+1. Download the `.twbx` file from this repository.  
+2. Open it with **Tableau Desktop** or **Tableau Public**.  
+3. Interact with the dashboard using filters and charts.  
+
+---
+
+## 📌 Author
+Created by **[Your Name]**  
+📧 Contact: [Your Email]  
+🔗 LinkedIn: [Your LinkedIn Profile]
+
+
+# 👩‍💼 Human Resource Dashboard
+
+## 📖 About the Dashboard
+The **Human Resource Dashboard** provides an interactive view of employee-related data.  
+It is designed to help **HR managers and business leaders** monitor workforce trends, analyze employee performance, and improve organizational decision-making.  
+This dashboard consolidates multiple HR metrics into a single platform for **real-time tracking and insights**.  
+
+---
+
+## ❓ Problem Statement
+Human Resource departments often face challenges such as:
+- Lack of visibility into **workforce distribution** (gender, age, department).  
+- Difficulty in tracking **attrition and retention rates**.  
+- Limited ability to monitor **employee performance, promotions, and absenteeism**.  
+- Manual, time-consuming analysis of **payroll, recruitment, and workforce planning**.  
+
+➡️ Without a centralized dashboard, HR leaders struggle to make **data-driven decisions**.  
+
+---
+
+## ✅ Solution Approach
+The **HR Dashboard** addresses these challenges by:
+- Integrating multiple HR data sources into one **interactive visualization**.  
+- Automating calculation of KPIs such as **attrition rate, headcount, average tenure, and salary distribution**.  
+- Allowing drill-down analysis by **department, role, gender, or location**.  
+- Providing **filters, charts, and comparisons** to quickly identify workforce trends.  
+
+---
+
+## 📊 Visualizations
+The dashboard typically includes:
+- **Employee Demographics** → Pie/Bar charts (gender, age, department, or location).  
+- **Attrition & Retention Trends** → Line charts showing hires vs exits over time.  
+- **Performance Metrics** → Bar charts/heatmaps comparing high vs low performers.  
+- **Salary Distribution** → Boxplots or histograms for pay equity across gender/roles.  
+- **Absenteeism & Attendance** → Trend lines showing sick leaves, holidays, overtime.  
+
+---
+
+## 📐 Key Metrics
+- **Total Employees (Headcount)**  
+- **Attrition Rate (%)**  
+- **Average Tenure (Years)**  
+- **Average Salary**  
+- **Performance Index**  
+- **Absenteeism Rate (%)**  
+
+---
+
+## 🔍 Insights & Explanation
+- Identifies departments with **high attrition** → enables preventive HR actions.  
+- Highlights **gender gaps or pay disparities** → supports diversity & inclusion.  
+- Tracks **headcount growth trends** → aligns HR planning with company strategy.  
+- Monitors **productivity vs absenteeism** → optimizes workforce performance.  
+
+---
+
+## 📂 File Included
+- `Human Resource Dashboard.twbx` → Tableau packaged workbook.  
+
+---
+
+## 🚀 How to Use
+1. Download the `.twbx` file from this repository.  
+2. Open it in **Tableau Desktop** or **Tableau Public**.  
+3. Interact with the dashboard using filters and charts.  
+
+---
+
+## 📌 Author
+Created by **[Your Name]**  
+📧 Contact: [Your Email]  
+🔗 LinkedIn: [Your LinkedIn Profile]
+
+
